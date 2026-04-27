@@ -61,7 +61,7 @@ Gosto de resolver problemas, aprender na prática e construir coisas que fazem s
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/bruno-theodoro-8b677b348/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btheodoro.cv@gmail.com)
 
 ---
